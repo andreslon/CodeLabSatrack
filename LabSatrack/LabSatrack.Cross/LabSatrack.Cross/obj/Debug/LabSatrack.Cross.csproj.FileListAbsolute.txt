@@ -1,0 +1,13 @@
+D:\Repos\CodeLabSatrack\LabSatrack\LabSatrack.Cross\LabSatrack.Cross\bin\Debug\LabSatrack.Cross.dll
+D:\Repos\CodeLabSatrack\LabSatrack\LabSatrack.Cross\LabSatrack.Cross\bin\Debug\LabSatrack.Cross.pdb
+D:\Repos\CodeLabSatrack\LabSatrack\LabSatrack.Cross\LabSatrack.Cross\bin\Debug\Xamarin.Forms.Core.dll
+D:\Repos\CodeLabSatrack\LabSatrack\LabSatrack.Cross\LabSatrack.Cross\bin\Debug\Xamarin.Forms.Platform.dll
+D:\Repos\CodeLabSatrack\LabSatrack\LabSatrack.Cross\LabSatrack.Cross\bin\Debug\Xamarin.Forms.Xaml.dll
+D:\Repos\CodeLabSatrack\LabSatrack\LabSatrack.Cross\LabSatrack.Cross\bin\Debug\Xamarin.Forms.Core.xml
+D:\Repos\CodeLabSatrack\LabSatrack\LabSatrack.Cross\LabSatrack.Cross\bin\Debug\Xamarin.Forms.Xaml.xml
+D:\Repos\CodeLabSatrack\LabSatrack\LabSatrack.Cross\LabSatrack.Cross\obj\Debug\LabSatrack.Cross.Views.MainPage.xaml.g.cs
+D:\Repos\CodeLabSatrack\LabSatrack\LabSatrack.Cross\LabSatrack.Cross\obj\Debug\LabSatrack.Cross.dll
+D:\Repos\CodeLabSatrack\LabSatrack\LabSatrack.Cross\LabSatrack.Cross\obj\Debug\LabSatrack.Cross.pdb
+D:\Repos\CodeLabSatrack\LabSatrack\LabSatrack.Cross\LabSatrack.Cross\obj\Debug\LabSatrack.Cross.App.xaml.g.cs
+D:\Repos\CodeLabSatrack\LabSatrack\LabSatrack.Cross\LabSatrack.Cross\obj\Debug\LabSatrack.Cross.dll.mdb
+D:\Repos\CodeLabSatrack\LabSatrack\LabSatrack.Cross\LabSatrack.Cross\bin\Debug\LabSatrack.Cross.dll.mdb

@@ -1,0 +1,9 @@
+﻿<Properties StartupItem="LabSatrack.Cross\LabSatrack.Cross.Droid\LabSatrack.Cross.Droid.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.LabSatrack.Cross.Droid PreferredExecutionTarget="Android.4.7&quot; Lollipop (5.0) XXHDPI Phone" />
+  <MonoDevelop.Ide.Workbench />
+</Properties>
