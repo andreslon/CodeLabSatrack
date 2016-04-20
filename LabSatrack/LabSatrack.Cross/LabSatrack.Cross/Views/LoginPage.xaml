@@ -20,7 +20,11 @@
           <Entry BackgroundColor="#f2f2f2" />
           <Label   Text="Password" TextColor="{StaticResource FontColor}"  />
           <Entry BackgroundColor="#f2f2f2" />
-          <Button x:Name="btnIngresar"  Text="Ingresar" BackgroundColor="{StaticResource ThemeColor}" TextColor="{StaticResource FontSecondaryColor}" WidthRequest="200" />
+          <Grid Padding="0,20">
+            <Button x:Name="btnIngresar"  Text="Ingresar" BackgroundColor="{StaticResource ThemeColor}" TextColor="{StaticResource FontSecondaryColor}" WidthRequest="200" />
+          </Grid>
+
+
         </StackLayout>
       </Grid>
 

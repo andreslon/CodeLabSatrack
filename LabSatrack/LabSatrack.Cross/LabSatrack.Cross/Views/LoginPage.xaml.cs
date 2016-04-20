@@ -17,9 +17,10 @@ namespace LabSatrack.Cross.Views
 
         }
 
-        async private void BtnIngresar_Clicked(object sender, EventArgs e)
+          private void BtnIngresar_Clicked(object sender, EventArgs e)
         {
-            await DisplayAlert("Regard", "Hi everyone :) ", "Ok");
+           
+            App.SetMasterPage();
         }
     }
 }

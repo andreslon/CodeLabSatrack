@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             Icon="icon.png"
+             Title="menu"
+             BackgroundColor="{StaticResource MenuBackgroundColor}"
+             x:Class="LabSatrack.Cross.Views.MenuPage">
+
+
+  <Grid Padding="20">
+
+    <StackLayout>
+
+      <StackLayout Orientation="Horizontal" Padding="0,10">
+        <Image HeightRequest="30" Source="icon.png"  WidthRequest="30"></Image>
+        <Label Text="Inicio" FontSize="18" TextColor="#989591" ></Label>
+      </StackLayout>
+      <StackLayout Orientation="Horizontal" Padding="0,10">
+        <Image HeightRequest="30" Source="icon.png"  WidthRequest="30"></Image>
+        <Label Text="Configuración" FontSize="18" TextColor="#989591" ></Label>
+      </StackLayout>
+      <StackLayout Orientation="Horizontal" Padding="0,10">
+        <Image HeightRequest="30" Source="icon.png"  WidthRequest="30"></Image>
+        <Label Text="Contacto" FontSize="18" TextColor="#989591" ></Label>
+      </StackLayout>
+      <StackLayout Orientation="Horizontal" Padding="0,10">
+        <Image HeightRequest="30" Source="icon.png"  WidthRequest="30"></Image>
+        <Label Text="Cerrar sesión" FontSize="18" TextColor="#989591" ></Label>
+      </StackLayout>
+
+    </StackLayout>
+
+
+
+  </Grid>
+
+
+</ContentPage>
