@@ -1,0 +1,5 @@
+D:\Repos\CodeLabSatrack\LabSatrack\LabSatrack.Domain\bin\Debug\LabSatrack.Domain.dll
+D:\Repos\CodeLabSatrack\LabSatrack\LabSatrack.Domain\bin\Debug\LabSatrack.Domain.pdb
+D:\Repos\CodeLabSatrack\LabSatrack\LabSatrack.Domain\obj\Debug\LabSatrack.Domain.csprojResolveAssemblyReference.cache
+D:\Repos\CodeLabSatrack\LabSatrack\LabSatrack.Domain\obj\Debug\LabSatrack.Domain.dll
+D:\Repos\CodeLabSatrack\LabSatrack\LabSatrack.Domain\obj\Debug\LabSatrack.Domain.pdb
