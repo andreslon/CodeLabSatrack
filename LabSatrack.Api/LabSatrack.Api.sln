@@ -1,0 +1,39 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LabSatrack.Api", "LabSatrack.Api\LabSatrack.Api.csproj", "{DDA18646-88B1-4B33-80E8-9CC60586118E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "PublishScripts", "PublishScripts", "{E925DADE-5865-452B-ADDA-3C45B21D0705}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Scripts", "Scripts", "{5E8334A4-4E0A-403F-A1C4-F390B6E07E41}"
+	ProjectSection(SolutionItems) = preProject
+		PublishScripts\Scripts\Deploy-AzureResourceGroup.ps1 = PublishScripts\Scripts\Deploy-AzureResourceGroup.ps1
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Templates", "Templates", "{8B49F6E5-2B57-49B0-A881-4090674B8CCF}"
+	ProjectSection(SolutionItems) = preProject
+		PublishScripts\Templates\LabSatrackApi.json = PublishScripts\Templates\LabSatrackApi.json
+		PublishScripts\Templates\LabSatrackApi.param.dev.json = PublishScripts\Templates\LabSatrackApi.param.dev.json
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DDA18646-88B1-4B33-80E8-9CC60586118E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DDA18646-88B1-4B33-80E8-9CC60586118E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DDA18646-88B1-4B33-80E8-9CC60586118E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DDA18646-88B1-4B33-80E8-9CC60586118E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{5E8334A4-4E0A-403F-A1C4-F390B6E07E41} = {E925DADE-5865-452B-ADDA-3C45B21D0705}
+		{8B49F6E5-2B57-49B0-A881-4090674B8CCF} = {E925DADE-5865-452B-ADDA-3C45B21D0705}
+	EndGlobalSection
+EndGlobal
